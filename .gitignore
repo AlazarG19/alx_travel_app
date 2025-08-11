@@ -1,0 +1,31 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Django stuff:
+*.sqlite3
+*.log
+media/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS files
+.DS_Store
+
+# Logs and temp files
+logs/
+*.log
+tmp/
+temp/
